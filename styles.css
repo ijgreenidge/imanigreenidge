@@ -1,5 +1,6 @@
 body {
     font-family: 'Rubik', sans-serif;
+    font-weight: bolder;
 }
 
 .navbar-fixed {
@@ -43,4 +44,20 @@ blockquote {
 
 .divider {
     margin-bottom: 50px;
+}
+
+.designHidden {
+    display:none;
+}
+
+.websiteHidden {
+    display:none;
+}
+
+.clothingHidden {
+    display:none;
+}
+
+.heading {
+    cursor:pointer;
 }
